@@ -1,8 +1,8 @@
 {
     "cropRect": {
-        "x": 0,
-        "y": 25,
-        "width": 186,
-        "height": 270
+        "x": 0,        // (negative values move left, positive values move right)
+        "y": 22,         //  (decrease to move up, increase to move down)
+        "width": 180,    //  (increase to make wider, decrease to make narrower)
+        "height": 190    // (increase to make taller, decrease to make shorter)
     }
 }
