@@ -1,8 +1,8 @@
 {
     "cropRect": {
         "x": 0,
-        "y": 30,
-        "width": 180,
+        "y": 40,
+        "width": 175,
         "height": 280
     }
 }
